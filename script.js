@@ -126,7 +126,7 @@ function enterItem(event){
 }
 getLocalStorage()
 console.log("hello wolrd")
-
+document.write("hello world")
 
 
 
