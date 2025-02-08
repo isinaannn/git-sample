@@ -127,6 +127,7 @@ function enterItem(event){
 getLocalStorage()
 console.log("hello wolrd")
 document.write("hello world")
+document.write("my name is muhammad sinan")
 
 
 
