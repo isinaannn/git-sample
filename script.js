@@ -128,5 +128,6 @@ getLocalStorage()
 console.log("hello wolrd")
 document.write("hello world")
 
+document.write("hello my name is muhammad sinan")
 
 
