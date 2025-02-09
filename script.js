@@ -131,4 +131,5 @@ document.write("my name is muhammad sinan")
 
 document.write("i am a web developer")
 
+console.log("welcome")
 
