@@ -125,11 +125,9 @@ function enterItem(event){
 
 }
 getLocalStorage()
-console.log("hello wolrd")
-document.write("hello world")
-document.write("my name is muhammad sinan")
+<<<<<<< HEAD
 
-document.write("i am a web developer")
 
-console.log("welcome")
+=======
+>>>>>>> 792d692089d9c044cf7119b6a3c8d97a75f6a9b6
 
