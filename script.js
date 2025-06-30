@@ -125,9 +125,5 @@ function enterItem(event){
 
 }
 getLocalStorage()
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 792d692089d9c044cf7119b6a3c8d97a75f6a9b6
 
